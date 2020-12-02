@@ -1,4 +1,4 @@
-**We recommend you access our notebook using nbviewer online.** (**[CLICK HERE](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
+**We recommend you access our notebook using nbviewer.** (**[CLICK HERE TO VIEW](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
 
 By Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
 
