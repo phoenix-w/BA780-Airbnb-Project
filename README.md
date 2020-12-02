@@ -1,4 +1,4 @@
-**GitHub fails to render some of the graphs we created, so we recommend you view our notebook using nbviewer.** (**[CLICK HERE TO VIEW](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
+**GitHub fails to render some of the graphs we created, so we recommend you view our notebook using nbviewer. [CLICK HERE TO VIEW](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb).**
 
 -- Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou
 
