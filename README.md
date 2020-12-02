@@ -1,4 +1,3 @@
-# (BA780 Final Project)
 # Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
 ### Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
 
@@ -9,7 +8,6 @@ Our primary objectives are:
 * Drawing a comparison between the pre- and post-COVID listing prices
 * Predicting the type of host (superhosts/non-superhosts) and understanding what attributes contribute to the classification of a superhost
 * Predicting the price for Airbnb listings in New York City and understanding what features contribute to profitable business opportunities for Airbnb
-
 
 ## Dataset Overview
 Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data.html) and were last updated in October 2020.
