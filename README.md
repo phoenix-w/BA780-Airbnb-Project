@@ -5,7 +5,7 @@
 ---
 
 
-## Analyzing and Predicting Airbnb Listing Price and Host Type in NYC
+## Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
 
 
 ### Project Objectives
