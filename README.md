@@ -1,15 +1,13 @@
-#### Friendly Reminder
+[Friendly Reminder] Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. (However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.)
 
-Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. (However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.)
-
-#### **We recommend you access our notebook using nbviewer online. ([CLICK HERE]("https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb"))**
+#### **We recommend you access our notebook using nbviewer online.** (**[CLICK HERE](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
 ---
 
 
 ## Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
 
 
-## Project Objectives
+### Project Objectives
 Our primary objectives are:
 
 * Analyzing neighborhood popularity for superhosts and non-superhosts, based on traffic, types of rooms (private rooms/shared rooms/entire apartment), and price
@@ -17,7 +15,7 @@ Our primary objectives are:
 * Predicting the type of host (superhosts/non-superhosts) and understanding what attributes contribute to the classification of a superhost
 * Predicting the price for Airbnb listings in New York City and understanding what features contribute to profitable business opportunities for Airbnb
 
-## Dataset Overview
+### Dataset Overview
 Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data.html) and were last updated in October 2020.
 
 1. [Listings](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/listings.csv.gz) (Detailed listings data for New York City.)
