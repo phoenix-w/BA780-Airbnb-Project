@@ -1,6 +1,5 @@
 # Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
-#### Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
----
+### Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
 
 ## Project Objectives
 Our primary objectives are:
