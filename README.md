@@ -1,6 +1,4 @@
-[Friendly Reminder] Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.
-
-#### **We recommend you access our notebook using nbviewer online.** (**[CLICK HERE](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
+**We recommend you access our notebook using nbviewer online.** (**[CLICK HERE](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
 
 By Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
 
@@ -25,3 +23,6 @@ Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data
 2. [Reviews](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/reviews.csv.gz) (Detailed review data for listings in New York City.)
 3. [Calendar](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/calendar.csv.gz) (Detailed calendar data for listings in New York City.)
 4. [Neighborhoods](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/visualisations/neighbourhoods.csv) (Lists of neighborhoods and boroughs in New York City.)
+####
+
+**[Friendly Reminder]** Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.
