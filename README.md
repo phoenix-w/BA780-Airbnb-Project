@@ -1,4 +1,4 @@
-[Friendly Reminder] Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. (However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.)
+[Friendly Reminder] Sometime GitHub fails to render .ipynb notebooks, so you might need to reload the page a few times. However, even if you manage to load the notebook, GitHub doesn't show some graphs properly.
 
 #### **We recommend you access our notebook using nbviewer online.** (**[CLICK HERE](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb)**)
 
