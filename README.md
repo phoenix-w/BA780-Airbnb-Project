@@ -16,4 +16,4 @@ Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data
 3. [Calendar](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/data/calendar.csv.gz) (Detailed calendar data for listings in New York City.)
 4. [Neighborhoods](http://data.insideairbnb.com/united-states/ny/new-york-city/2020-10-05/visualisations/neighbourhoods.csv) (Lists of neighborhoods and boroughs in New York City.)
 
-### -- Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
+### By Team 3B (Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou)
