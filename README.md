@@ -19,4 +19,5 @@ Our primary objectives are:
 Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data.html) and were last updated in October 2020.
 
 
--- Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou
+
+*By Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou*
