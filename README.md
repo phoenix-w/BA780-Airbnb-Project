@@ -7,9 +7,11 @@
 
 ## Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
 
+### Project Summary
+As a team, we were tasked with locating a dataset of our choosing, and performing cleaning, EDA, and machine learning steps. We chose an Airbnb dataset because of the varied and interesting features, the sizable number of observations, and the relevance of the subject matter. Each row of the "Listings" dataframe represents a listing on Airbnb, containing information about the property itself and the host.
 
 ### Project Objectives
-
+Our primary objectives are:
 * Analyzing neighborhood popularity for superhosts and non-superhosts, based on traffic, types of rooms (private rooms/shared rooms/entire apartment), and price
 * Drawing a comparison between the pre- and post-COVID listing prices
 * Predicting the type of host (superhosts/non-superhosts) and understanding what attributes contribute to the classification of a superhost
