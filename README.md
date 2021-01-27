@@ -5,7 +5,7 @@
 ---
 
 
-## Analyzing and Predicting Airbnb Listing Price and Host Type in New York City
+## AirBnb Dataset Exploration and Machine Learning
 
 ### Project Summary
 As a team, we were tasked with locating a dataset of our choosing, and performing cleaning, EDA, and machine learning steps. We chose an Airbnb dataset because of the varied and interesting features, the sizable number of observations, and the relevance of the subject matter. Each row of the "Listings" dataframe represents a listing on Airbnb, containing information about the property itself and the host.
