@@ -1,7 +1,5 @@
 **GitHub fails to render some of the graphs we created, so we recommend you view our notebook using nbviewer. [CLICK HERE TO VIEW](https://nbviewer.jupyter.org/github/phoenix-w/BA780-Airbnb-Project/blob/main/Airbnb_Project.ipynb).**
 
--- Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou
-
 ---
 
 
@@ -19,3 +17,6 @@ Our primary objectives are:
 
 ### Data Source
 Our datasets were taken from [InsideAirbnb](http://insideairbnb.com/get-the-data.html) and were last updated in October 2020.
+
+
+-- Yulong Gong, Peter Mankiewich, Ruchika Venkateswaran, Phoenix Wang, Yangyang Zhou
